@@ -1,6 +1,12 @@
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+You can make a transfer
+Read
+contract name
+contract symbol and
+Token totalsuppy
+
 
 Try running some of the following tasks:
 
