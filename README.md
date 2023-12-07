@@ -7,6 +7,8 @@ contract name
 contract symbol and
 Token totalsuppy
 
+## Contract Address 0x279BD4f42D00490C6cB39b034668492cB6C88474
+
 
 Try running some of the following tasks:
 
